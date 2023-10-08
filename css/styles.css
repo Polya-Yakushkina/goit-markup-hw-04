@@ -99,6 +99,7 @@ address {
 
 .header-menu-link {
     position: relative;
+    display: block;
     color: #2E2F42;
     font-size: 16px;
     font-weight: 500;
